@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miumiumeo
+- 👋 Hi, I’m T
 - 👀 I’m interested in python, learning sql, tableau and creative coding
 - 🌱 I’m currently learning python
 - 📫 How to reach me @ https://www.linkedin.com/in/thu-nguyen-5a0810141/
